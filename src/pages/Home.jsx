@@ -202,7 +202,7 @@ export default function Home() {
         key="1"
         title="Meet the Adventurers"
         accent="#6C63FF"
-        image="/images/Slide1.png"
+        image="/Slide1.png"
         direction={direction}
       >
         <p>
@@ -220,7 +220,7 @@ export default function Home() {
         key="2"
         title="Enter the World of Emotions"
         accent="#00BCD4"
-        image="/images/Slide2.png"
+        image="/Slide2.png"
         direction={direction}
       >
         <p>
@@ -243,7 +243,7 @@ export default function Home() {
         key="3"
         title="Why Emotions Matter"
         accent="#FF7043"
-        image="/images/Slide3.png"
+        image="/Slide3.png"
         direction={direction}
       >
         <p>
@@ -278,7 +278,7 @@ export default function Home() {
         key="5"
         title="How Computers Read Feelings"
         accent="#8BC34A"
-        image="/images/Slide5.png"
+        image="/Slide5.png"
         direction={direction}
       >
         <p>
@@ -303,7 +303,7 @@ export default function Home() {
         key="6"
         title="Koel’s Big Question"
         accent="#7E57C2"
-        image="/images/Slide6.png"
+        image="/Slide6.png"
         direction={direction}
       >
         <p>
@@ -325,7 +325,7 @@ export default function Home() {
         key="7"
         title="Try It Yourself!"
         accent="#00BCD4"
-        image="/images/Slide7.png"
+        image="/Slide7.png"
         direction={direction}
       >
         <p>Type your own sentence and see if Koel & Bhalu can guess the mood:</p>
@@ -339,7 +339,7 @@ export default function Home() {
         key="8"
         title="Tricky Paths & Puzzles"
         accent="#FF7043"
-        image="/images/Slide8.png"
+        image="/Slide8.png"
         direction={direction}
       >
         <p>
@@ -374,7 +374,7 @@ export default function Home() {
         key="10"
         title="The Champion of Feelings!"
         accent="#6C63FF"
-        image="/images/Slide10.png"
+        image="/Slide10.png"
         direction={direction}
       >
         <p>
